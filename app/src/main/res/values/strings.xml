@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_provider_authority" translatable="false">com.example.AppSettingsContentProvider</string>
+</resources>
